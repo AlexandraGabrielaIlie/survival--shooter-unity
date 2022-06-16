@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema 5-Survival Shooter", "Tema 5-Survival Shooter.csproj", "{53D6915F-AC17-B8DA-0386-8FA9A54E0F22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema 5-Survival Shooter.Editor", "Tema 5-Survival Shooter.Editor.csproj", "{797526AB-86AC-089A-A75D-2F571ED5C22E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D6915F-AC17-B8DA-0386-8FA9A54E0F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D6915F-AC17-B8DA-0386-8FA9A54E0F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D6915F-AC17-B8DA-0386-8FA9A54E0F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D6915F-AC17-B8DA-0386-8FA9A54E0F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{797526AB-86AC-089A-A75D-2F571ED5C22E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797526AB-86AC-089A-A75D-2F571ED5C22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797526AB-86AC-089A-A75D-2F571ED5C22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797526AB-86AC-089A-A75D-2F571ED5C22E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
